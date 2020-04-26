@@ -24,8 +24,8 @@ pip install colorama
 ```python
 $ python list.maker.py
 ```
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
-![ggboy](https://github.com/tograh/testrepository/3DTest.png)
+![Test Image 4](http://mr28-sites.000webhostapp.com/Private_Pic/Pic1.png)
+![ggboy](http://mr28-sites.000webhostapp.com/Private_Pic/Pic2.png)
 
 
 ## Contact
