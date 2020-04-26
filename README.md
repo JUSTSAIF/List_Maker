@@ -2,10 +2,11 @@
 
 Programmed By : Python
 ## Libraries Used :
-1 - random
+```1 - random
 2 - colorama => Fore
 3 - sys
 4 - time
+```
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Libraries.
