@@ -1,4 +1,4 @@
-# List_Maker By Me
+# Encrypt & Decrypt & Hashing & Cracking Script ~ By Me
 
 Programmed By : Python
 ## Libraries Used :
