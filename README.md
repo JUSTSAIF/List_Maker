@@ -14,6 +14,6 @@ pip install random colorama
 
 ## Usage
 ```
-$ python LMaker.py
+python LMaker.py
 ```
 ![](https://github.com/JUSTSAIF/List_Maker/blob/master/screen.png?raw=true)
