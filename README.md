@@ -13,7 +13,7 @@ pip install random colorama
 
 
 ## Usage
-```python
+```bash
 $ python LMaker.py
 ```
 ![](https://github.com/JUSTSAIF/List_Maker/blob/master/screen.png?raw=true)
